@@ -70,7 +70,6 @@ Protocol Used:
 - Port: 5151
 - Communication: Synchronous (one message at a time)
 
-================================================================================
 Features:
 --------------------------------------------------------------------------------
 - Real-time one-to-one chat functionality  
